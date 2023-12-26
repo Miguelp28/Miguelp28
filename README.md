@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou desenvolvendo Aplicativos **Secreto por enquanto**
 
-- 🌱 Atualmente estou aprendendo **JavaScript, Sqlite, Python, Linux, um pouco de AWS e aprendendo a língua inglesa**
+- 🌱 Atualmente estou aprendendo **Java, Sql e Sqlite, Python, Linux, um pouco de AWS e aprendendo a língua inglesa**
 
-- 💬 Pergunte-me sobre **Área de desenvolvimento de software**
+- 💬 Pergunte-me sobre **Área de desenvolvimento e manutenção de software**
 
 - 📫 Você me acha através do E-mail **miggui2017@hotmail.com**
 
